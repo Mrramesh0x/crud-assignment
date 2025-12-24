@@ -10,7 +10,7 @@ const Home = () => {
   
   return (
     <div>
-     <button onClick={handleRedirect} className="fetch-user-btn">Users</button>
+     <button onClick={handleRedirect} className="fetch-user-btn">Go To Users</button>
     </div>
   )
 }
